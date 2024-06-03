@@ -38,3 +38,10 @@ git add .
 git status
 git commit -m "Versio 6 i modificacio Examen.txt"
 git push origin projecte
+
+Versio 7
+git merge projecte
+git add .
+git status
+git commit -m "Versio 7 i modificacio Examen.txt"
+git push origin master
