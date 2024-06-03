@@ -23,3 +23,9 @@ git add .
 git status
 git commit -m "Versio 4 i modificacio Examen.txt"
 git push origin master
+
+Versio 5
+git add .
+git status
+git commit -m "Versio 5 i modificacio Examen.txt"
+git push origin master
