@@ -29,3 +29,12 @@ git add .
 git status
 git commit -m "Versio 5 i modificacio Examen.txt"
 git push origin master
+
+Versio 6
+git branch projecte
+git checkout projecte
+mv EXAMEN.txt ../ESPECIFICACIÓ/
+git add .
+git status
+git commit -m "Versio 6 i modificacio Examen.txt"
+git push origin projecte
